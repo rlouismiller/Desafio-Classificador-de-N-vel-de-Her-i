@@ -1,2 +1,2 @@
-# Desafio-Classificador-de-N-vel-de-Her-i
-Desafio de programação da Dio.
+# Desafio-Classificador-de-Nivel-de-Heroi
+Desafio de programação da Dio. Em andamento.
